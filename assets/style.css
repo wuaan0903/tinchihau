@@ -562,12 +562,13 @@ body.dark .mode .sun-moon i.moon{
     justify-content: space-between;
 }
 .logo img{
-    padding: 20px;
     width: 100%;
 }
 .logo{
     width: 30%;
     padding: 10px;
+    display: flex;
+    align-items: center;
 }
 .ct{
     display: flex;
